@@ -1,0 +1,210 @@
+body
+{
+  margin-top: 50px;
+margin-bottom: 50px;
+margin-left: 100px;
+margin-right: 100px;
+font-family: 'Inter', sans-serif;
+}
+a
+{
+  margin: 10px 20px;
+  text-decoration: none;
+
+}
+p{
+  font-size: 15px;
+}
+hr
+{
+  border-color: #EAF6F6;
+    border-top-style: solid;
+    border-bottom-style: none;
+    border-left-style: none;
+    border-right-style: none;
+
+    margin: 40px auto;
+
+
+}
+
+.heading
+{
+  font-size:40px;
+  width: 80%;
+  margin-top: auto;
+}
+
+.topcontainer
+{
+display: flex;
+margin: 40px auto;
+
+}
+.topcontainera
+{
+  text-align: left;
+}
+.topcontainerb
+{
+  margin-left: 530px;
+  text-align: right;
+}
+
+
+
+.headerlink
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+  margin-left: 50px;
+  margin-right: auto;
+  color: #40514E;
+
+}
+.headerlink:hover
+{
+  color: #FF1E00;
+}
+.container2
+{
+  display: grid;
+  grid-gap: 15px;
+
+}
+.container2a
+{
+  grid-column: 1 / span 2;
+  grid-row: 1;
+}
+
+.container2c>a
+{
+  padding: 10px 30px;
+  background-color: #FF1E00;
+  margin:auto;
+  width: 80px;
+  color: #EAF6F6;
+  letter-spacing: 2px;
+}
+.container2c>a:hover
+{
+  background-color: #000000;
+}
+
+.container2d
+{
+  padding: 30px;
+
+  background-color: #000000;
+  width: 400px;
+  grid-column: 3 ;
+  grid-row: 1 / span 2;
+
+}
+.container2d>p
+{
+
+  width: 80%;
+  color: #EAF6F6;
+}
+.container2d>h3
+{
+  margin-top: auto;
+  font-size: 40px;
+  color: #FF9551;
+}
+.container2d>a
+{
+  margin: auto;
+  font-size: 20px;
+  width: 80%;
+  color: #EAF6F6;
+}
+.container2d>a:hover
+{
+color: #FF9551;
+}
+.container2c>a
+{
+  background-color:
+}
+.para1{
+  width: 100%;
+  margin-bottom: 40px;
+}
+.web3{
+  height:350px;
+  width:700px;
+  display: block;
+
+}
+.container3
+{
+  display: flex;
+  margin-top: 50px;
+
+}
+
+
+.footerlink
+{
+  margin-left:auto;
+  font-weight: bold;
+ font-size: 20px;
+  color: #000000;
+
+}
+.footerlink:hover
+{
+  color: #FF1E00;
+}
+
+.num
+{
+  font-size: 30px;
+  color: #CFD2CF;
+}
+.retro
+{
+height: 225px;
+width: 150px;
+  float: left;
+  margin-right: 30px;
+}
+.top
+{
+  height: 225px;
+  width: 150px;
+  float: left;
+    margin-right: 30px;
+}
+.game
+{
+  height: 225px;
+  width: 150px;
+  float: left;
+    margin-right: 30px;
+}
+.footerparagraph
+{
+  margin-left: auto;
+  margin-right: 30px;
+
+
+}
+.container3a
+{
+  width: 1000px;
+
+}
+.container3b
+{
+  width: 1000px;
+  margin-left: 30px;
+}
+.container3c
+{
+  width: 1000px;
+  margin-left: 30px;
+}
